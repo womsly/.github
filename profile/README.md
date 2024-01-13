@@ -1,4 +1,19 @@
-## Hi there 👋
+## Womsly 
+
+We are a collaborative design group, aimed towards many kinds of online media.
+
+This github holds repositories for projects worked on by people at womsly.  
+As of right now we are not looking for people to join, but feel free to check out any of our public repos!
+
+<!-- You can find more information about us [here](http://womsly.com/about). -->
+Our website is currently under renovation, but we do a range of work.
+- Graphic Design
+- Web Development (HTML / CSS)
+- App Development (Android / iOS / PWA)
+- UI reworks
+- Product reworks
+- Existing website overhauls
+
 
 <!--
 
